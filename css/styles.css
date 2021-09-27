@@ -1,0 +1,63 @@
+@media only screen and (max-width: 576px) {
+  body {
+    margin-left: 20px;
+  }
+  .top-header img {
+    margin: auto;
+    margin-top: 15px;
+  }
+  .top-header input {
+    width: 92%;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10px;
+    margin-right: 12px;
+    margin-bottom: 10px;
+    margin-left: 24px;
+    padding-right: 12px;
+  }
+  .top-header ol {
+    margin: 20px 20px;
+    margin-left: 24px;
+    padding-left: 0px;
+    list-style: none;
+  }
+  .hero {
+    border: 2px solid;
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+  .hero h1 {
+    padding-bottom: 10px;
+  }
+  .hero img {
+    padding: 20px 20px 30px 20px;
+  }
+  .hero form {
+    text-align: center;
+  }
+  .hero button {
+    width: 25%;
+    height: 50px;
+  }
+  .popular-products {
+    margin-top: 40px;
+  }
+  .popular-products h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .popular-products img {
+    max-width: 100%;
+  }
+  .site-footer li {
+    list-style: none;
+  }
+  .site-footer nav li:first-child {
+    font-weight: bold;
+  }
+  .site-footer article small {
+    display: block;
+    text-align: center;
+  }
+}
